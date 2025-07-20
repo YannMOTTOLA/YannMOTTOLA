@@ -6,7 +6,7 @@
 
 <p align="left">✨ Creating bugs since 2025<br>
 📚 Currently learning how <em>not</em> to<br>
-🎯 Goals: live close to the mountains ⛰️ and speak Korean 🇰🇷</p>
+🎯 Goals: live close to mountains ⛰️ and speak Korean 🇰🇷</p>
 
 <h2 align="left">I'm working with</h2>
 
